@@ -1,4 +1,7 @@
-# MyApp
+# XAMPP LOCALHOST W/ EXTJS FRAMEWORK
+
+This application is hosted with an XAMPP server, using php to send and recieve data to 
+update grids in Extjs.
 
 This folder is primarily a container for the top-level pieces of the application.
 While you can remove some files and folders that this application does not use,
